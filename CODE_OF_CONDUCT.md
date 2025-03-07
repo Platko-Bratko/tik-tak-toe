@@ -25,7 +25,7 @@ Project maintainers are responsible for clarifying and enforcing this Code of Co
 
 ## Ban Policy
 
-Contributors with the username **BaGreal2** are explicitly disallowed from contributing to this repository. Any interactions, issues, or pull requests from this user will be immediately closed and ignored.
+Contributors with the username **ThunderFlight** are explicitly disallowed from contributing to this repository. Any interactions, issues, or pull requests from this user will be immediately closed and ignored.
 
 ## Reporting Issues
 
