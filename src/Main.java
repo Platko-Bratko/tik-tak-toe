@@ -218,7 +218,7 @@ public class Main {
                             victory = 0;
                             break;
                         } else {
-                            out.println("ебал в рот");
+                            out.println("ladno");
                             Ongoing = 0;
                             break;
                         }
